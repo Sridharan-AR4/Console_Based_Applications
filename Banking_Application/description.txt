@@ -1,0 +1,35 @@
+Banking Application (Console-Based)
+    This is a simple console-based banking application written in Java. It includes two types of users: Admin and Customer.
+
+How to Run:
+    Start the application by running the Main.java file.
+
+    Log in as Admin using the password: Sridharan@31.
+
+Admin Features:
+    Create new customer accounts by entering basic details.
+
+    View all transactions.
+
+    View specific user transactions.
+
+    Check specific user balance.
+
+    Close a customer account.
+
+    Logout.
+
+Customer Features:
+    Check balance.
+
+    Deposit money.
+
+    Withdraw money.
+
+    Transfer funds to another account.
+
+    View their own transactions.
+
+    Logout.
+
+This project was created to improve my Java skills and learn more about building interactive applications using object-oriented programming and console input/output.
